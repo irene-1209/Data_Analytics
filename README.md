@@ -31,9 +31,9 @@ Resultados
 KPI 1: Crecimiento del 2% de Usuarios a Nivel Nacional
 Este KPI mide el incremento en la cantidad de usuarios de internet, asegurando un crecimiento constante y sostenible.
 KPI 2: Media de Bajada Necesaria
-Este KPI monitorea la velocidad de bajada promedio para garantizar que el incremento de usuarios no afecte la calidad del servicio.
-KPI 3: Ingresos Estimados para el Próximo Año
-Este KPI estima los ingresos proyectados para el próximo año, teniendo en cuenta el aumento en la cantidad de usuarios y otros factores económicos.
+Este KPI monitorea la velocidad de bajada promedio para garantizar que el funcionamiento sea estimando con una media de bajada 1.5% llendo acorde con el incremento de usuarios y no afecte la calidad del servicio.
+KPI 3: Ingresos Estimados para el Próximo Año calculado en 4 periodos.
+Este KPI estima los ingresos proyectados para el próximo año, teniendo en cuenta el aumento en la cantidad de usuarios y otros factores económicos calculados a un superior del 85%.
 Conclusiones
 El análisis de los datos y la implementación de los KPIs nos permiten concluir que:
 
